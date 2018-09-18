@@ -22,7 +22,7 @@
             <version>${jsonp.version}</version>
         </dependency>
 
-        <!-- JSONP Reference Implementation is needed for testing -->
+        <!-- JSONP Reference Implementation is needed for testing purpose -->
         <dependency>
             <groupId>org.glassfish</groupId>
             <artifactId>javax.json</artifactId>
